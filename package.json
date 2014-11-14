@@ -1,0 +1,19 @@
+{
+    "title": "Gengivized",
+    "name": "gengivized",
+    "description": "Gengivized Theme for Brackets",
+    "version": "1.0.0",
+    "author": "Jonathan Argentiero <jonathan.argentiero@gmail.com>",
+    "homepage": "https://github.com/jonathanargentiero/Gengivized",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jonathanargentiero/Gengivized.git"
+    },
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "main.less"
+    },
+    "screenshot": "screenshot.png"
+}
