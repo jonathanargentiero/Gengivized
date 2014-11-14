@@ -5,6 +5,12 @@
     "version": "1.0.0",
     "author": "Jonathan Argentiero <jonathan.argentiero@gmail.com>",
     "homepage": "https://github.com/jonathanargentiero/Gengivized",
+    "keywords": [
+		"theme",
+        "classic",
+        "light",
+        "standard"
+    ],
     "repository": {
         "type": "git",
         "url": "git://github.com/jonathanargentiero/Gengivized.git"
@@ -14,6 +20,5 @@
     },
     "theme": {
         "file": "main.less"
-    },
-    "screenshot": "screenshot.png"
+    }
 }
